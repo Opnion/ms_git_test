@@ -1,0 +1,58 @@
+Added Component: Designator=R110(R0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20211123/7AFDB03DAF68AA91648A852AAE26A3AB.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "AR03FTDX4701A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "À©Õ¹¿â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "4.7k¦¸ ¡À1% 100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Viking(¹âò¡)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "AR03FTDX4701A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "4.7k¦¸"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55¡æ~+155¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Overload Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C2924150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "AR03FTDX4701A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "¡À50ppm/¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "¡À1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "±¡Ä¤µç×è"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k¦¸"; VariantName = "[No Variations]"
+Added Component: Designator=R111(R0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20211123/7AFDB03DAF68AA91648A852AAE26A3AB.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "AR03FTDX4701A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "À©Õ¹¿â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "4.7k¦¸ ¡À1% 100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Viking(¹âò¡)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "AR03FTDX4701A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "4.7k¦¸"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55¡æ~+155¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Overload Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C2924150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "AR03FTDX4701A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "¡À50ppm/¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "¡À1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "±¡Ä¤µç×è"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k¦¸"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IIC_SCL Pin=R110-1
+Added Pin To Net: NetName=3V3 Pin=R110-2
+Added Pin To Net: NetName=IIC_SDA Pin=R111-1
+Added Pin To Net: NetName=3V3 Pin=R111-2
+Added Member To Class: ClassName=3_ÓïÒôÄ£¿é.schdoc Member=Component R110 4.7k¦¸
+Added Member To Class: ClassName=3_ÓïÒôÄ£¿é.schdoc Member=Component R111 4.7k¦¸
+Added Room: Name=1_Board.schdoc
+Added Room: Name=2_MCU.schdoc
+Added Room: Name=3_ÓïÒôÄ£¿é.schdoc
+Added Room: Name=4_POW.schdoc

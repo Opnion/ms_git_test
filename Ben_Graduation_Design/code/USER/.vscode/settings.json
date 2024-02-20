@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "beep.h": "c",
+        "sys.h": "c",
+        "oled.h": "c",
+        "hx711.h": "c",
+        "stdlib.h": "c",
+        "oledfont.h": "c",
+        "sg90.h": "c",
+        "wifi.h": "c",
+        "timer.h": "c",
+        "esp8266.h": "c",
+        "usart2.h": "c",
+        "bmp.h": "c",
+        "led.h": "c",
+        "function.h": "c",
+        "hc05.h": "c"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "ws2812b.h": "c",
+        "tf.h": "c"
+    }
+}

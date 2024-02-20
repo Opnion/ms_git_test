@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=SD?? Old Footprint=TF-SMD_TF-02 New Footprint=PCBComponent_1
+Added Room: Name=1_Board.schdoc
+Added Room: Name=2_MCU.schdoc
+Added Room: Name=3_”Ô“Ùƒ£øÈ.schdoc
+Added Room: Name=4_POW.schdoc

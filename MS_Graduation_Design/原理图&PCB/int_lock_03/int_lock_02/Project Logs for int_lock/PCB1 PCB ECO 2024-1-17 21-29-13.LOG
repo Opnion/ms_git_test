@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=+5V Pin=U45-1
+Removed Pin From Net: NetName=USART3_RX Pin=U45-2
+Removed Pin From Net: NetName=USART3_TX Pin=U45-3
+Removed Pin From Net: NetName=GND Pin=U45-4
+Removed Member From Class: ClassName=2_MCU.schdoc Member=U45
+Change Component Designator: OldDesignator=CN? NewDesignator=VBUS
+Added Component: Designator=GSM(CONN-TH_2P-P2.50_HX25003-2A)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "»ÆÍ­"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Îý"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230619/19BA6947230AA44A04D3EDD65E618FD0.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ZX-XH2.54-2PZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "¹«ÐÍ²åÕë"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "À©Õ¹¿â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ÏµÁÐ:XH ¼ä¾à:2.54mm 1x2P Ö±²å"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Megastar(Õ×ÐÇ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ZX-XH2.54-2PZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Ö±²å"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "ZX-XH2.54-2PZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of PINs Per Row"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-25¡æ~+85¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins Structure"; Value = "1x2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Series"; Value = "XH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "²å¼þ,P=2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C7429632"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ZX-XH2.54-2PZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Welding Temperature (Max)"; Value = "260¡æ"; VariantName = "[No Variations]"
+Added Component: Designator=P12(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=GSM-1
+Added Pin To Net: NetName=+5V Pin=GSM-2
+Added Pin To Net: NetName=USART3_RX Pin=P12-1
+Added Pin To Net: NetName=USART3_TX Pin=P12-2
+Change Net Name : Old Net Name=NetCN?_2 New Net Name=NetU43_3
+Added Member To Class: ClassName=4_POW.schdoc Member=Component GSM ZX-XH2.54-2PZZ
+Added Member To Class: ClassName=2_MCU.schdoc Member=Component P12 Header 2
+Added Room: Name=1_Board.schdoc
+Added Room: Name=2_MCU.schdoc
+Added Room: Name=3_ÓïÒôÄ£¿é.schdoc
+Added Room: Name=4_POW.schdoc

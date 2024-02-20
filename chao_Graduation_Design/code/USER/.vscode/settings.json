@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "beep.h": "c",
+        "sys.h": "c",
+        "bmp.h": "c",
+        "lm393.h": "c",
+        "timer.h": "c",
+        "led.h": "c",
+        "oled.h": "c",
+        "bluetooth.h": "c",
+        "stm32f10x.h": "c",
+        "math.h": "c",
+        "hc-sr04.h": "c"
+    }
+}

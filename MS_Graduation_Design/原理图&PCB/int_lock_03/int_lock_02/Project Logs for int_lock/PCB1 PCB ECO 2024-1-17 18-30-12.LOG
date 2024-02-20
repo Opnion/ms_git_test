@@ -1,0 +1,63 @@
+Added Component: Designator=U10(SRAM)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20130225/1457706593006.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "IS62WV51216BLL-55TLI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "IS62WV51216BLL-55TLI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ISSI(美国芯成)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "IS62WV51216BLL-55TLI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "TSOPII-44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C11315"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "IS62WV51216BLL-55TLI"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=FSMC_A4 Pin=U10-1
+Added Pin To Net: NetName=FSMC_A3 Pin=U10-2
+Added Pin To Net: NetName=FSMC_A2 Pin=U10-3
+Added Pin To Net: NetName=FSMC_A1 Pin=U10-4
+Added Pin To Net: NetName=FSMC_A0 Pin=U10-5
+Added Pin To Net: NetName=FSMC_NE3 Pin=U10-6
+Added Pin To Net: NetName=FSMC_D0 Pin=U10-7
+Added Pin To Net: NetName=FSMC_D1 Pin=U10-8
+Added Pin To Net: NetName=FSMC_D2 Pin=U10-9
+Added Pin To Net: NetName=FSMC_D3 Pin=U10-10
+Added Pin To Net: NetName=3V3 Pin=U10-11
+Added Pin To Net: NetName=GND Pin=U10-12
+Added Pin To Net: NetName=FSMC_D4 Pin=U10-13
+Added Pin To Net: NetName=FSMC_D5 Pin=U10-14
+Added Pin To Net: NetName=FSMC_D6 Pin=U10-15
+Added Pin To Net: NetName=FSMC_D7 Pin=U10-16
+Added Pin To Net: NetName=FSMC_NWE Pin=U10-17
+Added Pin To Net: NetName=FSMC_A11 Pin=U10-18
+Added Pin To Net: NetName=FSMC_A10 Pin=U10-19
+Added Pin To Net: NetName=FSMC_A9 Pin=U10-20
+Added Pin To Net: NetName=FSMC_A8 Pin=U10-21
+Added Pin To Net: NetName=FSMC_A7 Pin=U10-22
+Added Pin To Net: NetName=FSMC_A6 Pin=U10-23
+Added Pin To Net: NetName=FSMC_A5 Pin=U10-24
+Added Pin To Net: NetName=FSMC_A15 Pin=U10-25
+Added Pin To Net: NetName=FSMC_A14 Pin=U10-26
+Added Pin To Net: NetName=FSMC_A13 Pin=U10-27
+Added Pin To Net: NetName=FSMC_A12 Pin=U10-28
+Added Pin To Net: NetName=FSMC_D8 Pin=U10-29
+Added Pin To Net: NetName=FSMC_D9 Pin=U10-30
+Added Pin To Net: NetName=FSMC_D10 Pin=U10-31
+Added Pin To Net: NetName=FSMC_D11 Pin=U10-32
+Added Pin To Net: NetName=3V3 Pin=U10-33
+Added Pin To Net: NetName=GND Pin=U10-34
+Added Pin To Net: NetName=FSMC_D12 Pin=U10-35
+Added Pin To Net: NetName=FSMC_D13 Pin=U10-36
+Added Pin To Net: NetName=FSMC_D14 Pin=U10-37
+Added Pin To Net: NetName=FSMC_D15 Pin=U10-38
+Added Pin To Net: NetName=FSMC_NBL0 Pin=U10-39
+Added Pin To Net: NetName=FSMC_NBL1 Pin=U10-40
+Added Pin To Net: NetName=FSMC_NOE Pin=U10-41
+Added Pin To Net: NetName=FSMC_A16 Pin=U10-42
+Added Pin To Net: NetName=FSMC_A17 Pin=U10-43
+Added Pin To Net: NetName=FSMC_A18 Pin=U10-44
+Added Member To Class: ClassName=3_语音模块.schdoc Member=Component U10 IS62WV51216BLL-55TLI
+Added Room: Name=1_Board.schdoc
+Added Room: Name=2_MCU.schdoc
+Added Room: Name=3_语音模块.schdoc
+Added Room: Name=4_POW.schdoc

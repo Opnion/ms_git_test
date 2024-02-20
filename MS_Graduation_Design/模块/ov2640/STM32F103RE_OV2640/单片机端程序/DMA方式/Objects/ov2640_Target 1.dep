@@ -1,0 +1,35 @@
+Dependencies for Project 'ov2640', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x5AB73860)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections-IC:\Users\MS\Desktop\STM32F103RE_OV2640\ｵ･ﾆｬｻ巐ﾋｳﾌﾐDMAｷｽﾊｽ\RTE-IC:\Users\MS\Desktop\STM32F103RE_OV2640\ｵ･ﾆｬｻ巐ﾋｳﾌﾐDMAｷｽﾊｽ\RTE\Device\STM32F103RE-ID:\RJ\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\RJ\keil5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_HD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (D:\RJ\keil5\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (D:\RJ\keil5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h)(0x5825386C)
+I (C:\Users\MS\Desktop\STM32F103RE_OV2640\蜊慕援譛ｺ遶ｯ遞句ｺ十DMA譁ｹ蠑十RTE\RTE_Components.h)(0x00000000)
+I (D:\RJ\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x5625B70C)
+I (D:\RJ\keil5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (D:\RJ\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (D:\RJ\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (D:\RJ\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (D:\RJ\keil5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\system_stm32f10x.h)(0x5825386C)
+I (D:\RJ\keil5\ARM\ARMCC\include\string.h)(0x574E3E26)
+I (dcmi_ov2640.h)(0x5AA91274)
+F (.\dcmi_ov2640.c)(0x5AB714A4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections-IC:\Users\MS\Desktop\STM32F103RE_OV2640\ｵ･ﾆｬｻ巐ﾋｳﾌﾐDMAｷｽﾊｽ\RTE-IC:\Users\MS\Desktop\STM32F103RE_OV2640\ｵ･ﾆｬｻ巐ﾋｳﾌﾐDMAｷｽﾊｽ\RTE\Device\STM32F103RE-ID:\RJ\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\RJ\keil5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_HD-o .\objects\dcmi_ov2640.o --omf_browse .\objects\dcmi_ov2640.crf --depend .\objects\dcmi_ov2640.d)
+I (D:\RJ\keil5\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (D:\RJ\keil5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h)(0x5825386C)
+I (C:\Users\MS\Desktop\STM32F103RE_OV2640\蜊慕援譛ｺ遶ｯ遞句ｺ十DMA譁ｹ蠑十RTE\RTE_Components.h)(0x00000000)
+I (D:\RJ\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x5625B70C)
+I (D:\RJ\keil5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (D:\RJ\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (D:\RJ\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (D:\RJ\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (D:\RJ\keil5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\system_stm32f10x.h)(0x5825386C)
+I (dcmi_ov2640.h)(0x5AA91274)
+F (RTE\Device\STM32F103RE\RTE_Device.h)(0x56F9DE5C)()
+F (RTE\Device\STM32F103RE\startup_stm32f10x_hd.s)(0x4F1E2E3C)(--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1"-IC:\Users\MS\Desktop\STM32F103RE_OV2640\ｵ･ﾆｬｻ巐ﾋｳﾌﾐDMAｷｽﾊｽ\RTE-IC:\Users\MS\Desktop\STM32F103RE_OV2640\ｵ･ﾆｬｻ巐ﾋｳﾌﾐDMAｷｽﾊｽ\RTE\Device\STM32F103RE-ID:\RJ\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\RJ\keil5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include--pd "__UVISION_VERSION SETA 521" --pd "_RTE_ SETA 1" --pd "STM32F10X_HD SETA 1"--list .\listings\startup_stm32f10x_hd.lst --xref -o .\objects\startup_stm32f10x_hd.o --depend .\objects\startup_stm32f10x_hd.d)
+F (RTE\Device\STM32F103RE\system_stm32f10x.c)(0x4F1E2E3C)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections-IC:\Users\MS\Desktop\STM32F103RE_OV2640\ｵ･ﾆｬｻ巐ﾋｳﾌﾐDMAｷｽﾊｽ\RTE-IC:\Users\MS\Desktop\STM32F103RE_OV2640\ｵ･ﾆｬｻ巐ﾋｳﾌﾐDMAｷｽﾊｽ\RTE\Device\STM32F103RE-ID:\RJ\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\RJ\keil5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_HD-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (D:\RJ\keil5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h)(0x5825386C)
+I (C:\Users\MS\Desktop\STM32F103RE_OV2640\蜊慕援譛ｺ遶ｯ遞句ｺ十DMA譁ｹ蠑十RTE\RTE_Components.h)(0x00000000)
+I (D:\RJ\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x5625B70C)
+I (D:\RJ\keil5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (D:\RJ\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (D:\RJ\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (D:\RJ\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (D:\RJ\keil5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\system_stm32f10x.h)(0x5825386C)

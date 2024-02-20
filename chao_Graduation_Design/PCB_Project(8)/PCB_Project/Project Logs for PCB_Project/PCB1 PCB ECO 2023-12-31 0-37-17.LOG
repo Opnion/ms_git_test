@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=B11_RX Pin=BlueTooth1-2
+Removed Pin From Net: NetName=B10_TX Pin=BlueTooth1-3
+Added Pin To Net: NetName=B10_TX Pin=BlueTooth1-2
+Added Pin To Net: NetName=B11_RX Pin=BlueTooth1-3
+Added Room: Name=MCU

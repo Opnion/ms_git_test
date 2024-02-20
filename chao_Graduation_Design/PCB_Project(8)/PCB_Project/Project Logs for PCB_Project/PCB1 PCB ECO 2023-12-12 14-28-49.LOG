@@ -1,0 +1,5 @@
+Added Component: Designator=D1(LED_A2)
+Added Pin To Net: NetName=B5_PWM_LED Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Member To Class: ClassName=MCU Member=Component D1 LED
+Added Room: Name=MCU

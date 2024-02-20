@@ -1,0 +1,30 @@
+Remove Pin=P11-2 From Net=FSMC_A6
+Remove Pin=P11-3 From Net=FSMC_NWE
+Remove Pin=P11-4 From Net=FSMC_NOE
+Remove Pin=P11-5 From Net=RESET
+Remove Pin=P11-6 From Net=FSMC_D0
+Remove Pin=P11-7 From Net=FSMC_D1
+Remove Pin=P11-8 From Net=FSMC_D2
+Remove Pin=P11-9 From Net=FSMC_D3
+Remove Pin=P11-10 From Net=FSMC_D4
+Remove Pin=P11-11 From Net=FSMC_D5
+Remove Pin=P11-12 From Net=FSMC_D6
+Remove Pin=P11-13 From Net=FSMC_D7
+Remove Pin=P11-14 From Net=FSMC_D8
+Remove Pin=P11-15 From Net=FSMC_D9
+Remove Pin=P11-16 From Net=FSMC_D10
+Remove Pin=P11-17 From Net=FSMC_D11
+Remove Pin=P11-18 From Net=FSMC_D12
+Remove Pin=P11-19 From Net=FSMC_D13
+Remove Pin=P11-20 From Net=FSMC_D14
+Remove Pin=P11-21 From Net=FSMC_D15
+Remove Pin=P11-25 From Net=3V3
+Remove Pin=U40B-1 From Net=B_SWITCH
+Remove Pin=U40B-2 From Net=B_WPS
+Remove Pin=U40A-75 From Net=RGB
+Remove Pin=U40A-111 From Net=SDIO_D2
+Remove Pin=U40A-113 From Net=SDIO_SCK
+Remove Pin=U40A-116 From Net=SDIO_CMD
+Change Component Footprint: Designator=SD?? Old Footprint=SD-SMD_SD-112 New Footprint=TF-SMD_TF-02
+Change Component Comment: Designator=R24 Old Comment=1.5k¦¸ New Comment=1k¦¸
+Change Component Comment: Designator=U5 Old Comment==Value New Comment=2K

@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "stdint.h": "c",
+        "led.h": "c",
+        "sys.h": "c",
+        "key.h": "c",
+        "gsm.h": "c",
+        "hc-sr501.h": "c",
+        "usart.h": "c",
+        "buzzer.h": "c",
+        "ws2812b.h": "c",
+        "delay.h": "c",
+        "tf.h": "c"
+    }
+}

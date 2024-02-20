@@ -1,0 +1,73 @@
+Removed Pin From Net: NetName=RGB Pin=U40-75
+Added Component: Designator=C105(C0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "CGA3E3X8R1H104M080AE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "100nF ¡À20% 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "CGA3E3X8R1H104M080AE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C3855738"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "CGA3E3X8R1H104M080AE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X8R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "¡À20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=U12(eeprom)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Block Erase Time (tBE)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clock Frequency (fc)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Retention - TDR (Year)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170316/1489627409956.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "W25Q128JVSIQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "W25Q128JVSIQ ±à´ø"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "WINBOND(»ª°î)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "W25Q128JVSIQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Size"; Value = "128Mbit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Page Programming Time (Tpp)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standby supply current"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOP-8-208mil"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C97521"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Current (Erase)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Current (Program)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Current (Read)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "W25Q128JVSIQTR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C105-1
+Added Pin To Net: NetName=3V3 Pin=C105-2
+Added Pin To Net: NetName=3V3 Pin=U12-3
+Added Pin To Net: NetName=GND Pin=U12-4
+Added Pin To Net: NetName=3V3 Pin=U12-7
+Added Pin To Net: NetName=3V3 Pin=U12-8
+Added Pin To Net: NetName=F_CS Pin=U12-1
+Added Pin To Net: NetName=F_CS Pin=U40-75
+Added Net: Name=F_CS
+Added Pin To Net: NetName=SPI1_MISO Pin=U12-2
+Added Pin To Net: NetName=SPI1_MISO Pin=U40-134
+Added Net: Name=SPI1_MISO
+Added Pin To Net: NetName=SPI1_MOSI Pin=U12-5
+Added Pin To Net: NetName=SPI1_MOSI Pin=U40-135
+Added Net: Name=SPI1_MOSI
+Added Pin To Net: NetName=SPI1_SCK Pin=U12-6
+Added Pin To Net: NetName=SPI1_SCK Pin=U40-133
+Added Net: Name=SPI1_SCK
+Added Member To Class: ClassName=3_ÓïÒôÄ£¿é.schdoc Member=Component C105 100nF
+Added Member To Class: ClassName=3_ÓïÒôÄ£¿é.schdoc Member=Component U12 W25Q128JVSIQ
+Added Member To Class: ClassName=4_POW.schdoc Member=Component U12 XL1509-5.0E1
+Added Room: Name=1_Board.schdoc
+Added Room: Name=2_MCU.schdoc
+Added Room: Name=3_ÓïÒôÄ£¿é.schdoc
+Added Room: Name=4_POW.schdoc

@@ -1,0 +1,160 @@
+Added Component: Designator=1(C 0805_L)
+Added Component: Designator=BlueTooth1(HDR2.54-LI-6P)
+Added Component: Designator=D1(LED_A1)
+Added Component: Designator=guang1(HDR2.54-LI-4P)
+Added Component: Designator=HC-SR1(HDR2.54-LI-4P)
+Added Component: Designator=JP1(HDR2.54-LI-2x3P)
+Added Component: Designator=JP2(HDR2.54-LI-2x3P)
+Added Component: Designator=JP3(HDR2.54-LI-2x8P)
+Added Component: Designator=left1(HDR2.54-LI-20P)
+Added Component: Designator=LS1(BEEP 5x9x5.5)
+Added Component: Designator=OLED1(HDR2.54-LI-4P)
+Added Component: Designator=Q1(TO92A)
+Added Component: Designator=R1(R 0805_L)
+Added Component: Designator=R2(R 0805_L)
+Added Component: Designator=R3(R 0805_L)
+Added Component: Designator=R4(R 0805_L)
+Added Component: Designator=R5(R 0805_L)
+Added Component: Designator=right1(HDR2.54-LI-20P)
+Added Component: Designator=S1(SW_PB4_A1)
+Added Component: Designator=S2(SW_PB4_A1)
+Added Component: Designator=S3(SW_PB4_A1)
+Added Component: Designator=S4(SW_PB4_A1)
+Added Component: Designator=S5(SW_PB4_A1)
+Added Pin To Net: NetName=GND Pin=1-1
+Added Pin To Net: NetName=Net1_2 Pin=1-2
+Added Pin To Net: NetName=B11_RX Pin=BlueTooth1-2
+Added Pin To Net: NetName=B10_TX Pin=BlueTooth1-3
+Added Pin To Net: NetName=GND Pin=BlueTooth1-4
+Added Pin To Net: NetName=5V Pin=BlueTooth1-5
+Added Pin To Net: NetName=B5_PWM_LED Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=5V Pin=guang1-1
+Added Pin To Net: NetName=GND Pin=guang1-2
+Added Pin To Net: NetName=A0_DO Pin=guang1-3
+Added Pin To Net: NetName=A1_AO Pin=guang1-4
+Added Pin To Net: NetName=5V Pin=HC-SR1-1
+Added Pin To Net: NetName=A3_TRIG Pin=HC-SR1-2
+Added Pin To Net: NetName=A2_ECHO Pin=HC-SR1-3
+Added Pin To Net: NetName=GND Pin=HC-SR1-4
+Added Pin To Net: NetName=3V3 Pin=JP1-1
+Added Pin To Net: NetName=GND Pin=JP1-2
+Added Pin To Net: NetName=3V3 Pin=JP1-3
+Added Pin To Net: NetName=GND Pin=JP1-4
+Added Pin To Net: NetName=3V3 Pin=JP1-5
+Added Pin To Net: NetName=GND Pin=JP1-6
+Added Pin To Net: NetName=5V Pin=JP2-1
+Added Pin To Net: NetName=GND Pin=JP2-2
+Added Pin To Net: NetName=5V Pin=JP2-3
+Added Pin To Net: NetName=GND Pin=JP2-4
+Added Pin To Net: NetName=5V Pin=JP2-5
+Added Pin To Net: NetName=GND Pin=JP2-6
+Added Pin To Net: NetName=C15 Pin=JP3-1
+Added Pin To Net: NetName=B3 Pin=JP3-2
+Added Pin To Net: NetName=B7 Pin=JP3-3
+Added Pin To Net: NetName=B6 Pin=JP3-4
+Added Pin To Net: NetName=A4 Pin=JP3-5
+Added Pin To Net: NetName=B12 Pin=JP3-6
+Added Pin To Net: NetName=A5 Pin=JP3-7
+Added Pin To Net: NetName=B13 Pin=JP3-8
+Added Pin To Net: NetName=A6 Pin=JP3-9
+Added Pin To Net: NetName=B14 Pin=JP3-10
+Added Pin To Net: NetName=A7 Pin=JP3-11
+Added Pin To Net: NetName=B15 Pin=JP3-12
+Added Pin To Net: NetName=B0 Pin=JP3-13
+Added Pin To Net: NetName=C13 Pin=JP3-14
+Added Pin To Net: NetName=B1 Pin=JP3-15
+Added Pin To Net: NetName=C14 Pin=JP3-16
+Added Pin To Net: NetName=VBT Pin=left1-1
+Added Pin To Net: NetName=C13 Pin=left1-2
+Added Pin To Net: NetName=C14 Pin=left1-3
+Added Pin To Net: NetName=C15 Pin=left1-4
+Added Pin To Net: NetName=A0_DO Pin=left1-5
+Added Pin To Net: NetName=A1_AO Pin=left1-6
+Added Pin To Net: NetName=A2_ECHO Pin=left1-7
+Added Pin To Net: NetName=A3_TRIG Pin=left1-8
+Added Pin To Net: NetName=A4 Pin=left1-9
+Added Pin To Net: NetName=A5 Pin=left1-10
+Added Pin To Net: NetName=A6 Pin=left1-11
+Added Pin To Net: NetName=A7 Pin=left1-12
+Added Pin To Net: NetName=B0 Pin=left1-13
+Added Pin To Net: NetName=B1 Pin=left1-14
+Added Pin To Net: NetName=B10_TX Pin=left1-15
+Added Pin To Net: NetName=B11_RX Pin=left1-16
+Added Pin To Net: NetName=RES Pin=left1-17
+Added Pin To Net: NetName=3V3 Pin=left1-18
+Added Pin To Net: NetName=GND Pin=left1-19
+Added Pin To Net: NetName=GND Pin=left1-20
+Added Pin To Net: NetName=NetLS1_1 Pin=LS1-1
+Added Pin To Net: NetName=GND Pin=LS1-2
+Added Pin To Net: NetName=GND Pin=OLED1-1
+Added Pin To Net: NetName=5V Pin=OLED1-2
+Added Pin To Net: NetName=B8_OLED_SCL Pin=OLED1-3
+Added Pin To Net: NetName=B9_OLED_SDA Pin=OLED1-4
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=Net1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetLS1_1 Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=NetD1_2 Pin=R1-2
+Added Pin To Net: NetName=B4_BEEP Pin=R2-1
+Added Pin To Net: NetName=5V Pin=R2-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R3-1
+Added Pin To Net: NetName=5V Pin=R3-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R4-1
+Added Pin To Net: NetName=5V Pin=R4-2
+Added Pin To Net: NetName=Net1_2 Pin=R5-1
+Added Pin To Net: NetName=B4_BEEP Pin=R5-2
+Added Pin To Net: NetName=B12 Pin=right1-1
+Added Pin To Net: NetName=B13 Pin=right1-2
+Added Pin To Net: NetName=B14 Pin=right1-3
+Added Pin To Net: NetName=B15 Pin=right1-4
+Added Pin To Net: NetName=KEY0_G Pin=right1-5
+Added Pin To Net: NetName=KEY1_C Pin=right1-6
+Added Pin To Net: NetName=KEY2_L Pin=right1-7
+Added Pin To Net: NetName=KEY_UP Pin=right1-8
+Added Pin To Net: NetName=KEY_DOWN Pin=right1-9
+Added Pin To Net: NetName=A15 Pin=right1-10
+Added Pin To Net: NetName=B3 Pin=right1-11
+Added Pin To Net: NetName=B4_BEEP Pin=right1-12
+Added Pin To Net: NetName=B5_PWM_LED Pin=right1-13
+Added Pin To Net: NetName=B6 Pin=right1-14
+Added Pin To Net: NetName=B7 Pin=right1-15
+Added Pin To Net: NetName=B8_OLED_SCL Pin=right1-16
+Added Pin To Net: NetName=B9_OLED_SDA Pin=right1-17
+Added Pin To Net: NetName=5V Pin=right1-18
+Added Pin To Net: NetName=GND Pin=right1-19
+Added Pin To Net: NetName=3V3 Pin=right1-20
+Added Pin To Net: NetName=KEY0_G Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=KEY1_C Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=KEY2_L Pin=S3-1
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Pin To Net: NetName=KEY_UP Pin=S4-1
+Added Pin To Net: NetName=GND Pin=S4-2
+Added Pin To Net: NetName=KEY_DOWN Pin=S5-1
+Added Pin To Net: NetName=GND Pin=S5-2
+Added Member To Class: ClassName=MCU Member=Component 1 104
+Added Member To Class: ClassName=MCU Member=Component BlueTooth1 HDR-1X6
+Added Member To Class: ClassName=MCU Member=Component D1 LED
+Added Member To Class: ClassName=MCU Member=Component guang1 HDR-1X4
+Added Member To Class: ClassName=MCU Member=Component HC-SR1 HDR-1X4
+Added Member To Class: ClassName=MCU Member=Component JP1 Header3X2
+Added Member To Class: ClassName=MCU Member=Component JP2 Header3X2
+Added Member To Class: ClassName=MCU Member=Component JP3 Header 8X2
+Added Member To Class: ClassName=MCU Member=Component left1 HDR-1X20
+Added Member To Class: ClassName=MCU Member=Component LS1 DC5V
+Added Member To Class: ClassName=MCU Member=Component OLED1 HDR-1X4
+Added Member To Class: ClassName=MCU Member=Component Q1 SS8550
+Added Member To Class: ClassName=MCU Member=Component R1 10K
+Added Member To Class: ClassName=MCU Member=Component R2 10K
+Added Member To Class: ClassName=MCU Member=Component R3 33R
+Added Member To Class: ClassName=MCU Member=Component R4 33R
+Added Member To Class: ClassName=MCU Member=Component R5 2K
+Added Member To Class: ClassName=MCU Member=Component right1 HDR-1X20
+Added Member To Class: ClassName=MCU Member=Component S1 光敏开关
+Added Member To Class: ClassName=MCU Member=Component S2 超声波
+Added Member To Class: ClassName=MCU Member=Component S3 蓝牙
+Added Member To Class: ClassName=MCU Member=Component S4 增量
+Added Member To Class: ClassName=MCU Member=Component S5 减量
+Added Room: Name=MCU

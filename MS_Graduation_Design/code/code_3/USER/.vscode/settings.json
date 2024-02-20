@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "sys.h": "c",
+        "gsm.h": "c",
+        "hc-sr501.h": "c",
+        "beep.h": "c"
+    }
+}

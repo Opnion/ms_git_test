@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=DCMI_HREF Pin=U40-40
+Added Pin To Net: NetName=IIC_SCL Pin=U40-59
+Added Pin To Net: NetName=IIC_SDA Pin=U40-60
+Added Pin To Net: NetName=IIC_SDA Pin=U46-36
+Added Pin To Net: NetName=IIC_SCL Pin=U46-38
+Added Pin To Net: NetName=3V3 Pin=U47-1
+Added Pin To Net: NetName=IIC_SDA Pin=U47-2
+Added Pin To Net: NetName=3V3 Pin=U48-1
+Added Pin To Net: NetName=IIC_SCL Pin=U48-2
+Added Room: Name=1_Board.schdoc
+Added Room: Name=2_MCU.schdoc
+Added Room: Name=3_”Ô“Ùƒ£øÈ.schdoc
+Added Room: Name=4_POW.schdoc

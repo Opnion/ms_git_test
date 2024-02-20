@@ -1,0 +1,55 @@
+Change Component Comment : Designator=U5 Old Comment=2k¦¸ New Comment=2K
+Change component parameters: Designator = "U5" ("U5"); Footprint = "R0603"; UniqueID = "\gge6" ("\gge6")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220822/046AFDAF81466BFF443BF7BC902F6DB1.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "RTX032001BETP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "2k¦¸ ¡À0.1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "RALEC(ÍúÚ¹)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "RTX032001BETP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R50"; Value = "2k¦¸"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C5141181"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "RTX032001BETP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "¡À50ppm/¡æ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "¡À0.1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2k¦¸"; VariantName = "[No Variations]"
+Added Component: Designator=SD??(TF-SMD_TF-02)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Card Connection Mode"; Value = "°Î²åÊ½"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Card Type"; Value = "±ê×¼SD¿¨"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "¿¨×ù"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "¶Æ½ð"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20221111/3DA5FA45280C889584A9D758FC9BB3ED.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SD-112"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "°Î²åÊ½ ±ê×¼SD¿¨ ¿¨×ù"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HANBO(ºº²©)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SD-112"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Body Height"; Value = "2.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-25¡æ~+90¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C961673"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SD-112"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SDIO_D3 Pin=SD??-1
+Added Pin To Net: NetName=SDIO_CMD Pin=SD??-2
+Added Pin To Net: NetName=GND Pin=SD??-3
+Added Pin To Net: NetName=3V3 Pin=SD??-4
+Added Pin To Net: NetName=SDIO_SCK Pin=SD??-5
+Added Pin To Net: NetName=GND Pin=SD??-6
+Added Pin To Net: NetName=SDIO_D0 Pin=SD??-7
+Added Pin To Net: NetName=SDIO_D1 Pin=SD??-8
+Added Pin To Net: NetName=SDIO_D2 Pin=SD??-9
+Added Member To Class: ClassName=1_Board.schdoc Member=Component SD?? SD-112
+Added Room: Name=1_Board.schdoc
+Added Room: Name=2_MCU.schdoc
+Added Room: Name=3_ÓïÒôÄ£¿é.schdoc
+Added Room: Name=4_POW.schdoc

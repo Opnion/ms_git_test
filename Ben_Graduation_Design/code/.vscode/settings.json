@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "sys.h": "c",
+        "dht11.h": "c",
+        "esp8266-01s.h": "c",
+        "wifi.h": "c",
+        "watersensor.h": "c",
+        "hx711.h": "c",
+        "stm32f10x.h": "c",
+        "oled.h": "c",
+        "hc05.h": "c"
+    }
+}

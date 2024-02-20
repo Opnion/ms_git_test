@@ -1,0 +1,12 @@
+Added Component: Designator=L2(RGB)
+Added Component: Designator=L3(RGB)
+Added Pin To Net: NetName=+5V Pin=L2-1
+Added Pin To Net: NetName=GND Pin=L2-3
+Added Pin To Net: NetName=+5V Pin=L3-1
+Added Pin To Net: NetName=GND Pin=L3-3
+Added Pin To Net: NetName=PE14 Pin=L3-4
+Added Pin To Net: NetName=NetL2_4 Pin=L2-4
+Added Pin To Net: NetName=NetL2_4 Pin=L3-2
+Added Net: Name=NetL2_4
+Added Member To Class: ClassName=1_Board.schdoc Member=Component L2 RGB
+Added Member To Class: ClassName=1_Board.schdoc Member=Component L3 RGB

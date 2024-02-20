@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+5V Pin=SW-2
+Removed Pin From Net: NetName=+5V Pin=SW-3
+Removed Member From Class: ClassName=4_POW.schdoc Member=SW
+Added Room: Name=1_Board.schdoc
+Added Room: Name=2_MCU.schdoc
+Added Room: Name=3_”Ô“Ùƒ£øÈ.schdoc
+Added Room: Name=4_POW.schdoc

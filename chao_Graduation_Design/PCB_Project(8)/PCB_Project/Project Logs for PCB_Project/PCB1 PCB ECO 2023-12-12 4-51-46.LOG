@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=1 Old Footprint=C 0201_L New Footprint=C 0805_L
+Change Component Footprint: Designator=R1 Old Footprint=R 0201_L New Footprint=R 0805_L
+Change Component Footprint: Designator=R2 Old Footprint=R 0201_L New Footprint=R 0805_L
+Change Component Footprint: Designator=R3 Old Footprint=R 0201_L New Footprint=R 0805_L
+Change Component Footprint: Designator=R4 Old Footprint=R 0201_L New Footprint=R 0805_L
+Change Component Footprint: Designator=R5 Old Footprint=R 0201_L New Footprint=R 0805_L
+Change Component Designator: OldDesignator=BlueTooth NewDesignator=BlueTooth1
+Change Component Designator: OldDesignator=guang NewDesignator=guang1
+Change Component Designator: OldDesignator=HC-SR04 NewDesignator=HC-SR1
+Change Component Designator: OldDesignator=left NewDesignator=left1
+Change Component Designator: OldDesignator=right NewDesignator=right1
+Added Room: Name=MCU

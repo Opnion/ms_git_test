@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=+5V Pin=L2-1
+Removed Pin From Net: NetName=+5V Pin=L3-1
+Removed Pin From Net: NetName=SR501 Pin=Q6-1
+Added Component: Designator=R50(R0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220513/247AF9639BA21CF93567DC289CCC6A22.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SCR0603F1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "孺桯踱"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1k次 ㊣1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "VO(矧吨)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SCR0603F1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "1k次"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C3016283"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SCR0603F1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "㊣1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k次"; VariantName = "[No Variations]"
+Added Component: Designator=R51(R0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220513/247AF9639BA21CF93567DC289CCC6A22.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SCR0603F1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "孺桯踱"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1k次 ㊣1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "VO(矧吨)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SCR0603F1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "1k次"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C3016283"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SCR0603F1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "㊣1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k次"; VariantName = "[No Variations]"
+Added Component: Designator=R52(R0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220513/247AF9639BA21CF93567DC289CCC6A22.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SCR0603F1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "孺桯踱"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1k次 ㊣1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "VO(矧吨)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SCR0603F1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "1k次"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C3016283"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SCR0603F1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "㊣1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k次"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SR501 Pin=R50-2
+Added Pin To Net: NetName=+5V Pin=R51-2
+Added Pin To Net: NetName=+5V Pin=R52-2
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=R51-1
+Added Net: Name=NetL2_1
+Added Pin To Net: NetName=NetL3_1 Pin=L3-1
+Added Pin To Net: NetName=NetL3_1 Pin=R52-1
+Added Net: Name=NetL3_1
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=NetQ6_1 Pin=R50-1
+Added Net: Name=NetQ6_1
+Added Member To Class: ClassName=1_Board.schdoc Member=Component R50 1k次
+Added Member To Class: ClassName=1_Board.schdoc Member=Component R51 1k次
+Added Member To Class: ClassName=1_Board.schdoc Member=Component R52 1k次

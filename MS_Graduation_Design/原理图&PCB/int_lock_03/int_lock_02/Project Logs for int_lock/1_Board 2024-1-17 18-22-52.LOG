@@ -1,0 +1,16 @@
+Remove Pin=P100-5 From Net=IIC_SCL
+Remove Pin=P100-6 From Net=S_MCKL
+Remove Pin=P100-8 From Net=IIC_SDA
+Remove Pin=P100-9 From Net=3V3
+Change Component Comment: Designator=R24 Old Comment=1.5k New Comment=1k¦¸
+Add Pin To Net: Pin=U11-4 Old Net=DCMI_SCL New Net=IIC_SCL
+Add Pin To Net: Pin=U11-6 Old Net=DCMI_SDA New Net=IIC_SDA
+Add Pin To Net: Pin=U40A-28 Old Net=S_DOUT New Net=B_SWITCH
+Add Pin To Net: Pin=U40A-29 Old Net=S_SDIN New Net=B_WPS
+Change Pin Designator/Name:  Old Designator=C100-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=C100-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C101-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=U40A-28 Old Name=PC2 New Designator =PB8 New Name=139
+Change Pin Designator/Name:  Old Designator=U40A-29 Old Name=PC3 New Designator =PB9 New Name=140
+Change Pin Designator/Name:  Old Designator=U40A-139 Old Name=PB8 New Designator =PE8 New Name=59
+Change Pin Designator/Name:  Old Designator=U40A-140 Old Name=PB9 New Designator =PE9 New Name=60

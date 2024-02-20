@@ -1,0 +1,11 @@
+.\objects\dcmi_ov2640.o: dcmi_ov2640.c
+.\objects\dcmi_ov2640.o: D:\RJ\keil5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\dcmi_ov2640.o: D:\RJ\keil5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h
+.\objects\dcmi_ov2640.o: C:\Users\MS\Desktop\STM32F103RE_OV2640\单片机端程序\外部中断方式\RTE\RTE_Components.h
+.\objects\dcmi_ov2640.o: D:\RJ\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h
+.\objects\dcmi_ov2640.o: D:\RJ\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\dcmi_ov2640.o: D:\RJ\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h
+.\objects\dcmi_ov2640.o: D:\RJ\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h
+.\objects\dcmi_ov2640.o: D:\RJ\keil5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h
+.\objects\dcmi_ov2640.o: D:\RJ\keil5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\system_stm32f10x.h
+.\objects\dcmi_ov2640.o: dcmi_ov2640.h

@@ -1,0 +1,2 @@
+PC端程序：在port.txt里面写好串口号，然后运行Release里面的程序接收图像，该程序是用Visual Studio 2012编译的
+单片机端程序：dcmi_ov2640.h和dcmi_ov2640.c是从STM32F4官方标准库里面的OV2640 DCMI例程里面找到的，经过了修改后移植到了STM32F1单片机上

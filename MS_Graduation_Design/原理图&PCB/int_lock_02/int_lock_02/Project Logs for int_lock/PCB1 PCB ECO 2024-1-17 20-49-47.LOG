@@ -1,0 +1,170 @@
+Change Component Comment : Designator=R24 Old Comment=1kΩ New Comment=1.5kΩ
+Change Component Comment : Designator=U5 Old Comment=2K New Comment=2kΩ
+Change component parameters: Designator = "U5" ("U5"); Footprint = "R0603"; UniqueID = "\gge6" ("\gge6")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220822/046AFDAF81466BFF443BF7BC902F6DB1.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "RTX032001BETP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "2kΩ ±0.1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "RALEC(旺诠)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "RTX032001BETP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2kΩ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C5141181"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "RTX032001BETP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±50ppm/℃"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±0.1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2kΩ"; VariantName = "[No Variations]"
+Added Component: Designator=C102(C0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "CGA3E3X8R1H104M080AE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "100nF ±20% 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "CGA3E3X8R1H104M080AE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C3855738"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "CGA3E3X8R1H104M080AE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X8R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C103(C0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "CGA3E3X8R1H104M080AE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "100nF ±20% 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "CGA3E3X8R1H104M080AE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C3855738"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "CGA3E3X8R1H104M080AE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X8R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=P11(HDR2X17)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=SW??(SWITCH1)
+Add component (AddParameter): Name = "Actuator Style"; Value = "矩形按钮"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator/Cap Color"; Value = "蓝色"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200227/C318861_0CCDF4510CAD1098054D1FAD25282ED5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "XKB8080-W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "100MΩ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IP Rating"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "按键开关   8*8插件蓝白黑无锁开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XKB Connectivity(中国星坤)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "XKB8080-W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mechanical Life"; Value = "10万次"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "直插"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Force"; Value = "160gf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-15℃~+55℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Style"; Value = "PC引脚"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Self Lock / No Lock"; Value = "无锁"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C318861"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "XKB8080-W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "With Lamp"; Value = "不带"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C102-1
+Added Pin To Net: NetName=+5V Pin=C102-2
+Added Pin To Net: NetName=GND Pin=C103-1
+Added Pin To Net: NetName=3V3 Pin=C103-2
+Added Pin To Net: NetName=FSMC_A6 Pin=P11-2
+Added Pin To Net: NetName=FSMC_NWE Pin=P11-3
+Added Pin To Net: NetName=FSMC_NOE Pin=P11-4
+Added Pin To Net: NetName=RESET Pin=P11-5
+Added Pin To Net: NetName=FSMC_D0 Pin=P11-6
+Added Pin To Net: NetName=FSMC_D1 Pin=P11-7
+Added Pin To Net: NetName=FSMC_D2 Pin=P11-8
+Added Pin To Net: NetName=FSMC_D3 Pin=P11-9
+Added Pin To Net: NetName=FSMC_D4 Pin=P11-10
+Added Pin To Net: NetName=FSMC_D5 Pin=P11-11
+Added Pin To Net: NetName=FSMC_D6 Pin=P11-12
+Added Pin To Net: NetName=FSMC_D7 Pin=P11-13
+Added Pin To Net: NetName=FSMC_D8 Pin=P11-14
+Added Pin To Net: NetName=FSMC_D9 Pin=P11-15
+Added Pin To Net: NetName=FSMC_D10 Pin=P11-16
+Added Pin To Net: NetName=FSMC_D11 Pin=P11-17
+Added Pin To Net: NetName=FSMC_D12 Pin=P11-18
+Added Pin To Net: NetName=FSMC_D13 Pin=P11-19
+Added Pin To Net: NetName=FSMC_D14 Pin=P11-20
+Added Pin To Net: NetName=FSMC_D15 Pin=P11-21
+Added Pin To Net: NetName=GND Pin=P11-22
+Added Pin To Net: NetName=3V3 Pin=P11-24
+Added Pin To Net: NetName=3V3 Pin=P11-25
+Added Pin To Net: NetName=GND Pin=P11-26
+Added Pin To Net: NetName=GND Pin=P11-27
+Added Pin To Net: NetName=+5V Pin=P11-28
+Added Pin To Net: NetName=DCMI_D3 Pin=R103-1
+Added Pin To Net: NetName=DCMI_D2 Pin=R104-1
+Added Pin To Net: NetName=DCMI_D4 Pin=R105-1
+Added Pin To Net: NetName=DCMI_D4 Pin=SD??-1
+Added Pin To Net: NetName=DCMI_D2 Pin=SD??-7
+Added Pin To Net: NetName=DCMI_D3 Pin=SD??-8
+Added Pin To Net: NetName=+5V Pin=SW??-2
+Added Pin To Net: NetName=+5V Pin=SW??-3
+Added Pin To Net: NetName=B_SWITCH Pin=U40-1
+Added Pin To Net: NetName=B_WPS Pin=U40-2
+Added Pin To Net: NetName=RGB Pin=U40-75
+Added Pin To Net: NetName=SDIO_D2 Pin=U40-111
+Added Pin To Net: NetName=SDIO_SCK Pin=U40-113
+Added Pin To Net: NetName=SDIO_CMD Pin=U40-116
+Added Pin To Net: NetName=FSMC_NE4 Pin=P11-1
+Added Pin To Net: NetName=FSMC_NE4 Pin=U40-127
+Added Net: Name=FSMC_NE4
+Added Pin To Net: NetName=LCD_BL Pin=P11-23
+Added Pin To Net: NetName=LCD_BL Pin=U40-76
+Added Net: Name=LCD_BL
+Added Pin To Net: NetName=T_CS Pin=P11-33
+Added Pin To Net: NetName=T_CS Pin=U40-7
+Added Net: Name=T_CS
+Added Pin To Net: NetName=T_MISO Pin=P11-29
+Added Pin To Net: NetName=T_MISO Pin=R14-1
+Added Pin To Net: NetName=T_MISO Pin=U40-48
+Added Net: Name=T_MISO
+Added Pin To Net: NetName=T_MOSI Pin=P11-30
+Added Pin To Net: NetName=T_MOSI Pin=U40-49
+Added Net: Name=T_MOSI
+Added Pin To Net: NetName=T_PEN Pin=P11-31
+Added Pin To Net: NetName=T_PEN Pin=U40-47
+Added Net: Name=T_PEN
+Added Pin To Net: NetName=T_SCK Pin=P11-34
+Added Pin To Net: NetName=T_SCK Pin=U40-46
+Added Net: Name=T_SCK
+Added Member To Class: ClassName=3_语音模块.schdoc Member=Component C102 100nF
+Added Member To Class: ClassName=3_语音模块.schdoc Member=Component C103 100nF
+Added Member To Class: ClassName=3_语音模块.schdoc Member=Component P11 TFTLCD
+Added Member To Class: ClassName=4_POW.schdoc Member=Component SW?? XKB8080-W
+Added Room: Name=1_Board.schdoc
+Added Room: Name=2_MCU.schdoc
+Added Room: Name=3_语音模块.schdoc
+Added Room: Name=4_POW.schdoc

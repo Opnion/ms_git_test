@@ -1,0 +1,4 @@
+Change Component Comment : Designator=1 Old Comment=104 New Comment=0.1uf
+Change Component Designator: OldDesignator=1 NewDesignator=C1
+Change Net Name : Old Net Name=Net1_2 New Net Name=NetC1_2
+Added Room: Name=MCU

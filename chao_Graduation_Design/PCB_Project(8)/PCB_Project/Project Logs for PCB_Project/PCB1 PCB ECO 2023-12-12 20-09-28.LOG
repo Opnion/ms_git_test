@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C1 Old Footprint=C 0201_L New Footprint=C 0805_L
+Change Component Footprint: Designator=C2 Old Footprint=C 0201_L New Footprint=C 0805_L
+Change Component Footprint: Designator=C4 Old Footprint=C 0201_L New Footprint=C 0805_L
+Change Component Footprint: Designator=C5 Old Footprint=C 0201_L New Footprint=C 0805_L
+Added Member To Class: ClassName=MCU Member=Component C1 100nf

@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=GND Pin=C102-1
+Removed Pin From Net: NetName=+5V Pin=C102-2
+Removed Pin From Net: NetName=GND Pin=C103-1
+Removed Pin From Net: NetName=3V3 Pin=C103-2
+Removed Pin From Net: NetName=FSMC_NE4 Pin=P11-1
+Removed Pin From Net: NetName=FSMC_A6 Pin=P11-2
+Removed Pin From Net: NetName=FSMC_NWE Pin=P11-3
+Removed Pin From Net: NetName=FSMC_NOE Pin=P11-4
+Removed Pin From Net: NetName=RESET Pin=P11-5
+Removed Pin From Net: NetName=FSMC_D0 Pin=P11-6
+Removed Pin From Net: NetName=FSMC_D1 Pin=P11-7
+Removed Pin From Net: NetName=FSMC_D2 Pin=P11-8
+Removed Pin From Net: NetName=FSMC_D3 Pin=P11-9
+Removed Pin From Net: NetName=FSMC_D4 Pin=P11-10
+Removed Pin From Net: NetName=FSMC_D5 Pin=P11-11
+Removed Pin From Net: NetName=FSMC_D6 Pin=P11-12
+Removed Pin From Net: NetName=FSMC_D7 Pin=P11-13
+Removed Pin From Net: NetName=FSMC_D8 Pin=P11-14
+Removed Pin From Net: NetName=FSMC_D9 Pin=P11-15
+Removed Pin From Net: NetName=FSMC_D10 Pin=P11-16
+Removed Pin From Net: NetName=FSMC_D11 Pin=P11-17
+Removed Pin From Net: NetName=FSMC_D12 Pin=P11-18
+Removed Pin From Net: NetName=FSMC_D13 Pin=P11-19
+Removed Pin From Net: NetName=FSMC_D14 Pin=P11-20
+Removed Pin From Net: NetName=FSMC_D15 Pin=P11-21
+Removed Pin From Net: NetName=GND Pin=P11-22
+Removed Pin From Net: NetName=LCD_BL Pin=P11-23
+Removed Pin From Net: NetName=3V3 Pin=P11-24
+Removed Pin From Net: NetName=3V3 Pin=P11-25
+Removed Pin From Net: NetName=GND Pin=P11-26
+Removed Pin From Net: NetName=GND Pin=P11-27
+Removed Pin From Net: NetName=+5V Pin=P11-28
+Removed Pin From Net: NetName=T_MISO Pin=P11-29
+Removed Pin From Net: NetName=T_MOSI Pin=P11-30
+Removed Pin From Net: NetName=T_PEN Pin=P11-31
+Removed Pin From Net: NetName=T_CS Pin=P11-33
+Removed Pin From Net: NetName=T_SCK Pin=P11-34
+Removed Member From Class: ClassName=3_”Ô“Ùƒ£øÈ.schdoc Member=C102
+Removed Member From Class: ClassName=3_”Ô“Ùƒ£øÈ.schdoc Member=C103
+Removed Member From Class: ClassName=3_”Ô“Ùƒ£øÈ.schdoc Member=P11
+Added Room: Name=1_Board.schdoc
+Added Room: Name=2_MCU.schdoc
+Added Room: Name=3_”Ô“Ùƒ£øÈ.schdoc
+Added Room: Name=4_POW.schdoc
